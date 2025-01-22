@@ -10,4 +10,4 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
 - Optimized for Next.js and Vercel
 
 
-### link : https://prs.vercel.app/
+### link : https://praneet.vercel.app/
