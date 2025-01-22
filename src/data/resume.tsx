@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "praneet Suyal",
   initials: "DV",
-  url: "https://praneetsuyal.netlify.app/",
+  url: "https://praneet.vercel.app/",
   location: " Thane, India",
   locationLink: "https://www.google.com/maps/place/mumbai",
   description:
@@ -158,7 +158,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://polyEms.vercel.app/",
+          href: "https://polyems.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
