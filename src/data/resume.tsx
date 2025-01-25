@@ -123,7 +123,7 @@ export const DATA = {
     {
       title: "Video call app",
       href: "https://github.com/prs2002/webrtc-video-chat",
-      dates: "Dec 2024 - Jan2025",
+      dates: "Nov 2024 - Dec 2025",
       active: true,
       description:
         "Designed, developed and sold animated UI components for developers.",
@@ -146,7 +146,7 @@ export const DATA = {
     {
       title: "polyEms",
       href: "https://llm.report",
-      dates: "Oct 2024 - Nov 2024",
+      dates: "Dec 2024 - Jan 2025",
       active: true,
       description:
         "PolyLLMs: A cutting-edge chatbot , enabling you to explore, chat, and experience the capabilities of various large language models seamlessly.",
@@ -194,6 +194,35 @@ export const DATA = {
         },
       ],
       image: "/forex.png",
+      video:
+        "",
+    },
+    {
+      title: "sketchbook",
+      href: "",
+      dates: "May 2023 - June 2024",
+      active: true,
+      description:
+        "A collaborative drawing tool, designed for seamless real-time synchronization using Socket.IO. This whiteboard allows multiple users to effortlessly unleash their creativity together.",
+      technologies: [
+        "Next.js",
+        "Node.js",
+        "Socket.io",
+        "Tailwind",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://sketchbook.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/prs2002/Sketchbook/",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/sketchbook.png",
       video:
         "",
     },
