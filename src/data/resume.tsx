@@ -8,7 +8,7 @@ export const DATA = {
   location: " Thane, India",
   locationLink: "https://www.google.com/maps/place/mumbai",
   description:
-    "Aspiring Software Engineer. I love building things and helping people.",
+    "Full Stack Developer. I love building things and creating value.",
   summary:
     "I'm a Full Stack Developer with a strong eagerness to learn and grow. Currently, I'm expanding my skillset by exploring open-source projects and diving into DevOps practices, focusing on tools like Kubernetes, Docker, and AWS.",
   avatarUrl: "/me.png",
@@ -19,12 +19,14 @@ export const DATA = {
     "Typescript",
     "Node.js",
     "Docker",
+    "PostgreSQL",
     "MongoDB",
+    "Prisma",
     "Kubernetes",
     "Angular",
     "C#",
     ".NET Core",
-    "Java",
+    "Java springboot",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -90,6 +92,35 @@ export const DATA = {
     }
   ],
   projects: [
+    {
+      title: "XConnect",
+      href: "https://prsxconnect.vercel.app/",
+      dates: "Jan 2025 - Mar 2025",
+      active: true,
+      description:
+        "Built a feature-rich e-commerce platform with features like a shopping cart(Redux for state management), secure PayPal payment integration, user reviews and ratings, and more. Explore the full experience and try a demo purchase",
+      technologies: [
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Prisma",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://prsxconnect.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/prs2002/prsXconnect/",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/xconnect.png",
+      video:
+        "",
+    },
     {
       title: "tech Emporium",
       href: "https://techemporium.onrender.com/",
