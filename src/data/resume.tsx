@@ -98,7 +98,7 @@ export const DATA = {
       dates: "Jan 2025 - Mar 2025",
       active: true,
       description:
-        "Built a feature-rich e-commerce platform with features like a shopping cart(Redux for state management), secure PayPal payment integration, user reviews and ratings, and more. Explore the full experience and try a demo purchase",
+        "A clean, social media application with functionalities like post creation(text and images), likes, comments, notifications, suggested users, profile updates, dark mode, and a fully responsive design & secure authentication via Clerk.",
       technologies: [
         "Next.js",
         "TypeScript",
@@ -157,7 +157,7 @@ export const DATA = {
       dates: "Nov 2024 - Dec 2025",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "A video calling app with real-time peer-to-peer communication and seamless video/audio streaming. It uses WebRTC for direct media streaming, Socket.io for signaling between clients.",
       technologies: [
         "Next.js",
         "Socket.io",
@@ -176,7 +176,7 @@ export const DATA = {
     },
     {
       title: "polyEms",
-      href: "https://llm.report",
+      href: "https://polyems.vercel.app/",
       dates: "Dec 2024 - Jan 2025",
       active: true,
       description:
