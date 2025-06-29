@@ -85,7 +85,7 @@ export const DATA = {
     {
       school: "Vellore Institute of Technology - Chennai",
       href: "https://chennai.vit.ac.in/",
-      degree: "Bachelors in Technology (B. Tech)",
+      degree: "BTech, Computer Science Engineering",
       logoUrl: "/vit.png",
       start: "2019",
       end: "2023",
